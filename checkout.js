@@ -2,6 +2,8 @@
 
 const minus = document.getElementsByClassName("fas fa-minus" )[0];
 
+const minus = document.getElementsByClassName("fas fa-minus" )[0];
+
 const plus = document.getElementsByClassName("fas fa-plus")[0];
 
 let quantity = document.getElementById("product-quantity");
